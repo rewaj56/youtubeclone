@@ -3,7 +3,7 @@ This GitHub repository showcases a YouTube clone created entirely with HTML and 
 
 
 ## Screenshots
-![App Screenshot](https://raw.githubusercontent.com/rewaj56/rewaj56.github.io/main/youtube-clone/screenshot/screenshot1.PNG)
+![App Screenshot](https://raw.githubusercontent.com/rewaj56/youtubeclone/main/screenshot/screenshot1.PNG)
 
 
 ## Technologies used: 
