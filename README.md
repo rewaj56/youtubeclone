@@ -11,7 +11,7 @@ HTML, CSS
 
 
 ## Demo
-https://rewaj56.github.io/youtube-clone/
+https://youtubeclone-lovat.vercel.app/
 
 
 ## Badges
